@@ -1,3 +1,5 @@
+> **Saved work.** Backed up from `~/Claude Cowork/Claude-of-Tanks` on 2026-09-30, when the local copy was deleted to free disk space. Kept for reference; not actively maintained.
+
 <p align="center">
   <a href="https://cot.kevinliu.studio">
     <img src="public/brand/og-image.png" alt="Claude of Tanks armored battle with the crest badge and wordmark">
